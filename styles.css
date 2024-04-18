@@ -1,0 +1,55 @@
+.navbar {
+    background-color: #000000;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: #ffffff; 
+}
+
+.navbar-nav .nav-link {
+    color: #ffffff; 
+}
+
+.navbar-nav .nav-link:hover {
+    color: #ff6600; 
+}
+
+/* About */
+#about {
+    background-color: #ff6600;
+    color: #000000; 
+    padding: 80px 0;
+    text-align: center;
+}
+
+/* Profile */
+#profile {
+    background-color: #000000;
+    color: #000000; 
+    padding: 80px 0;
+    text-align: center;
+}
+
+/* Hobby */
+#hobby {
+    background-color: #ff6600;
+    color: #000000;
+    padding: 80px 0;
+    text-align: center;
+}
+
+/* Contact */
+#contact {
+    background-color: #000000;
+    color: #ffffff;
+    padding: 80px 0; 
+    text-align: center;
+}
+
+/* Footer */
+footer {
+    background-color: #000000;
+    color: #ffffff;
+    padding: 20px 0; 
+}
